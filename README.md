@@ -2,7 +2,7 @@
 <h3 align="center">I am fascinated by writing react applications.</h3>
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakos98&label=Profile%20views&color=0e75b6&style=flat" alt="sakos98" /> </p>
+
 
 - 🌱 I’m currently learning **React, DataBase,**
 
